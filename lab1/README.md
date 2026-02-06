@@ -1,8 +1,11 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
 **Student Name**: Shan Jiang
+
 **Student ID**: 041179466
+
 **Course**: CST8915 Full-stack Cloud-native Development
+
 **Semester**: Winter 2026
 
 ---
